@@ -1,4 +1,4 @@
-package decoder;
+package decoder.model;
 
 import com.google.common.base.Charsets;
 import com.google.common.hash.Hashing;
